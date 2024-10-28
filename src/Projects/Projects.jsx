@@ -1,7 +1,7 @@
 import "./Projects.css";
 import "../CSS/framework.css";
 import NavBar from "../NavBar/NavBar";
-import SideBar from "../Sidebar/SideBar";
+import SideBar from "../Sidebar/Sidebar";
 
 const Projects = () => {
   return (
